@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 梅亭先生四六標准
-#+DATE: 2015-09-23 10:24:37
-#+PROPERTY: JUAN 4
-
-¶
-之
